@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ddfa1676-a8be-4f15-9e05-11be8e21cb07" name="Changes" comment="Complete">
       <change beforePath="$PROJECT_DIR$/.github/workflows/workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/workflow.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
